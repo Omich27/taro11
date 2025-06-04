@@ -3,3 +3,4 @@
   Access-Control-Allow-Methods: GET
   Content-Type: font/woff2
   Content-Type: font/woff
+Add _headers for CORS
